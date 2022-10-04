@@ -8,6 +8,9 @@ path
 
 ### Compile program
 ```
+gcc main.c -o main.exe
+main.exe
+OR
 gcc HelloWorld.c && HelloWorld.exe
 ```
 
